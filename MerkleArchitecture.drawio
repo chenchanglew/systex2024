@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T22:23:33.621Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="QzveqKrymME6XVFO-sMP" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T22:26:30.508Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="yF52qIBjBR5RJvGEQjVF" version="24.3.1" type="github">
   <diagram name="Page-1" id="ytsnkdMpD4JHJz4nEYuC">
     <mxGraphModel dx="1194" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
             <mxPoint x="17" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tbP1JejfTtedmxKy0wD8-12" value="worldstate" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.dynamo_db;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#2e73b8;strokeWidth=0.8;lucidId=cE2T~fHr0tdE;" parent="1" vertex="1">
+        <mxCell id="tbP1JejfTtedmxKy0wD8-12" value="world state" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.dynamo_db;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#2e73b8;strokeWidth=0.8;lucidId=cE2T~fHr0tdE;" parent="1" vertex="1">
           <mxGeometry x="677.5" y="310" width="90" height="69" as="geometry" />
         </mxCell>
         <mxCell id="tbP1JejfTtedmxKy0wD8-13" value="Ledger" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=cylinder3;direction=south;size=10;anchorPointDirection=0;boundedLbl=1;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;lucidId=cE2TJ~xX5vwF;" parent="1" vertex="1">
