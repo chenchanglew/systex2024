@@ -1,5 +1,7 @@
 # SYSTEX2024 Repository
 
+[![Static Badge](https://systex24.github.io/img/systexbadges-available.svg)](https://systex24.github.io/artifact.html)
+
 Welcome to the SYSTEX2024 GitHub repository! This repository contains resources and materials related to my master’s thesis in IBM & ETH Zurich, which was accepted for presentation at the SYSTEX2024 workshop.
 Paper title: Revisiting Rollbacks on Smart Contracts in TEE-protected Private Blockchains.
 
